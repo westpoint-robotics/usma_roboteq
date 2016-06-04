@@ -8,7 +8,7 @@ This package is a python script used to drive the roboteq motor controller. Orig
 3. ```roslaunch roboteq roboteq_driver.launch```
 
 ## TODO List
-[x] Create udev rules that map the roboteq driver to ```/dev/roboteq```
-[x] Allow the driver to publish to the arduino light controller for autonomous navigation
-[ ] Fix the driver post navigation issue
+- [x] Create udev rules that map the roboteq driver to ```/dev/roboteq```
+- [x] Allow the driver to publish to the arduino light controller for autonomous navigation
+- [ ] Fix the driver post navigation issue
 
